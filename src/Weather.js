@@ -74,7 +74,7 @@ export default function Weather(props) {
         <footer>
           This project was coded by{" "}
           <a
-            href="https://www.shecodes.io/"
+            href="https://github.com/ChaneaHamilton"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -82,18 +82,14 @@ export default function Weather(props) {
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/shecodesio/weather"
+            href="https://github.com/ChaneaHamilton/react-weather-project-week5"
             target="_blank"
             rel="noopener noreferrer"
           >
             open-sourced on GitHub
           </a>{" "}
           and{" "}
-          <a
-            href="https://shecodes-weather.netlify.app/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <a href="#" target="_blank" rel="noopener noreferrer">
             hosted on Netlify
           </a>
         </footer>
